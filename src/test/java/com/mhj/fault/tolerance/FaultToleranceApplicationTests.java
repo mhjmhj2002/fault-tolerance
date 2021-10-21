@@ -1,10 +1,10 @@
-package com.mhj.spring.cloud;
+package com.mhj.fault.tolerance;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringCloudApplicationTests {
+class FaultToleranceApplicationTests {
 
 	@Test
 	void contextLoads() {
